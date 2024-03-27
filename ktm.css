@@ -1,0 +1,258 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main1{
+    background-image: url('https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-97972734/97972734.jpg');
+    
+    height: 600px;
+    margin: -8px;
+    
+    }
+.menu{
+    display: flex;
+    float: right;
+    padding-right: 50px;
+    
+}
+.logo1 span{
+    color: rgb(252, 96, 34);
+    float: right;
+}
+
+
+
+.material-symbols-outlined{
+    color: #ffffff;
+    margin: 50px;
+    
+}
+.home-content{
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    padding-left: 400px;
+    padding-top: 150px;
+}
+.shot i{
+    font-size: 60px;
+    font-weight: 900;
+
+}
+.shot{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+ .butt{margin: 50px;
+    
+}
+
+.newv{
+    
+    height: 65px;
+    width: 190px;
+    font-weight: 700;
+    color: white;
+    background-color:  rgb(252, 96, 34);
+    border: 1px solid rgb(252, 96, 34);
+    cursor: pointer;
+    margin: 30px;
+    
+}
+.newv:hover{
+    background-color: transparent;
+    color:  rgb(252, 96, 34);
+}
+
+.bikes{
+    margin-top: 100px;
+    margin-left: 25px;
+    margin-right:25px ;
+
+    }
+.content{
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    
+}
+.content p{
+    
+    font-size: 30px;
+    font-weight: 700;
+}
+.kick{
+    font-size: 90px;
+    font-weight: 900;
+}
+
+.box,.box1,.four ,.whole{
+    display: flex;
+    
+}
+.dd{
+    width: 30%;
+    margin: 30px;
+    padding-top: 50px;
+}
+
+.disk{
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.disk-main,.disk-main1{
+    font-weight:800;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.disk-main1:hover{
+    color:rgb(252, 96, 34) ;
+
+}
+.foot{
+    font-weight:100;
+    font-size: 20px;
+}
+ 
+
+.four1 img,.four2 img {
+    display: flex;
+    height: 250px;
+    width: 300px;
+}
+.four1 video{
+    height: 250px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.black{
+    background-color: black;
+    height: 500px;
+    width: 600px;
+    
+}
+
+.whole{
+    margin: 40px;
+}
+
+.nose{
+    text-align: center;
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: 800;
+    padding-top: 30px;
+}
+
+.uu{
+    font-weight: 100;
+    font-size: 15px;
+    opacity: 80%;
+}
+
+.fol{
+    height: 65px;
+    width: 190px;
+    font-weight: 700;
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    cursor: pointer;
+    
+    
+    font-size: 15px;
+    
+}
+.btn  i{
+    color: #ffffff;
+    justify-content: space-between;
+    padding-right: 4px;
+}
+.arg{
+    margin: 100px;
+    padding-left: 75px;
+}
+
+.sign{
+    display: flex;
+    justify-content: center;
+    
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.sign button{
+    background-color: transparent;
+    color: rgb(252, 96, 34) ;
+    font-size: 17px;
+    font-weight: 500;
+    border:1px solid rgb(252, 96, 34);
+    height: 70px;
+    width: 170px;
+}
+.sp:hover{
+    background-color:rgb(252, 96, 34) ;
+    color: #ffffff;
+    height: 70px;
+    width: 210px;
+    
+}
+.ee{
+    margin-top: 80px;
+}
+
+.dec{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    opacity: 40%;
+}
+
+.last{
+    
+    background-color: black;
+    color: #ffffff;
+    font-size: 22px;
+    margin-top: 70px;
+    width: 100%;
+    height: 600px;
+    
+    
+
+}
+.last1{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    padding-top: 60px;
+    padding-left: 100px;
+    
+}
+.low1 p,.low2 p,.low3 p,.low4 p,.low5 p{
+    font-weight: 700;
+}
+
+.end{
+    color: #ffffff;
+    margin-top: 60px;
+}
+.coc{
+    font-size: 15px;
+    opacity: 80%;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.cok
+{
+    float: right;
+    font-weight: 700;
+    font-size: 20px;
+    
+    margin-right: 30px;
+    color: rgb(252, 96, 34);
+}
+
+
